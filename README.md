@@ -39,22 +39,20 @@
 - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated.
 </div>
 
-
 <hr>
 
 <!-- Connect with me -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gautam-bairagi-702053233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautam baieagi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gautam_prince_d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gautam's" height="30" width="40" /></a>
+
 </p>
 
 
 <!-- Languages and Tools -->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-g) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCeUtVhl3haP9LGR8w7fLOkw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__priyanshu_gupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-bairagi-702053233/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCeUtVhl3haP9LGR8w7fLOkw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gautam_prince_d/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
