@@ -32,7 +32,8 @@
   <br>
 
 - 👷 <samp>Currently pursuing MCA from SCSIT~DAVV University Indore.
- -🤔 <samp>Exploring new technologies and developing software solutions and quick hacks. 
+ -🤔 <samp>Exploring new technologies
+ -♟currently working on Reactjs 
  -🌱 <samp>Open to all Open Source Projects😋  
 - 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
 - 💬 <samp>Ask me about Web developpment 
