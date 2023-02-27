@@ -8,7 +8,7 @@
   
   
   
-  <h3 align="center"><samp> A Web Developer,☁</samp></h4></p>
+  <h3 align="center"><samp> 👨🏻‍💻 A Web Developer 👨🏻‍💻,☁</samp></h4></p>
    
 
 <!-- <hr> -->
