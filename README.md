@@ -86,8 +86,8 @@
 
   <h3 align="left">Languages and Tools:</h3>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact" alt="Gautam Bairagi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautam-Bairagi&show_icons=true&locale=en&layout=compact" alt="Gautam Bairagi" /></p>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&show_icons=true&locale=en" alt="Gautam Bairagi" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gautam-Bairagi&show_icons=true&locale=en" alt="Gautam Bairagi" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhur-Jatiya&" alt="Gautam Bairagi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam-Bairagi&" alt="Gautam Bairagi" /></p>
