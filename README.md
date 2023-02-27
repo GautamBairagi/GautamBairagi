@@ -31,10 +31,10 @@
 
  - 👷 <samp>Currently pursuing MCA from SCSIT~DAVV University Indore.
   - 🤔 <samp>Exploring new technologies
-  - ♟currently working on Reactjs
-  - 🌱 <samp>Open to all Open Source Projects😋  
+  - ♟currently working on **Reactjs**
+  - 🌱 <samp>Open to all **Open Source** Projects😋  
  - 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
- - 💬 <samp>Ask me about Web developpment 
+ - 💬 <samp>Ask me about **Web developpment** 
  - 🤔 <samp>I’m looking for help with how to Design Website
 - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated.
 </div>
