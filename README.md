@@ -8,7 +8,7 @@
   
   
   
-  <h3 align="center"><samp> A Full Stack Web Developer,☁</samp></h4></p>
+  <h3 align="center"><samp> A Web Developer,☁</samp></h4></p>
    
 
 <!-- <hr> -->
@@ -86,8 +86,8 @@
 
   <h3 align="left">Languages and Tools:</h3>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact" alt="Madhur-Jatiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhur-Jatiya&show_icons=true&locale=en&layout=compact" alt="Gautam Bairagi" /></p>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&show_icons=true&locale=en" alt="Madhur-Jatiya" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Madhur-Jatiya&show_icons=true&locale=en" alt="Gautam Bairagi" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhur-Jatiya&" alt="Madhur-Jatiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhur-Jatiya&" alt="Gautam Bairagi" /></p>
