@@ -1,6 +1,6 @@
 <img align="center" width="900" height = "400" src="my 4.gif">
 <p align="center"><samp><b> Hey there! <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"> </b></samp></p>
-<p align="center"><h1 align="center"><samp> I'm Madhur Jatiya</samp></h1></p>
+<p align="center"><h1 align="center"><samp> I'm Gautam Bairagi</samp></h1></p>
 
 
 <p align="center">
@@ -8,7 +8,7 @@
   
   
   
-  <h3 align="center"><samp> A Full Stack Web Developer, An Open Source Contributor and A Crazy person ☁</samp></h4></p>
+  <h3 align="center"><samp> A Full Stack Web Developer,☁</samp></h4></p>
    
 
 <!-- <hr> -->
