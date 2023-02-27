@@ -13,8 +13,6 @@
 
 <!-- <hr> -->
 
-  
-
 
   <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
@@ -54,6 +52,9 @@
 
 
 <!-- Languages and Tools -->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-g) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCeUtVhl3haP9LGR8w7fLOkw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__priyanshu_gupta)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
