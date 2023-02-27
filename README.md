@@ -67,7 +67,6 @@
 <hr>
 
 
-
 <!-- Spotify Playing 🎧 -->
 
 <h3><b><samp>Spotify Playing 🎧</samp></b></h3>
