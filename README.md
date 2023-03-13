@@ -15,7 +15,7 @@
 
 
   <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+*![](https://gautambairagi.netlify.app/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 
   <!--Visitor Count-->
