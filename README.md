@@ -15,8 +15,7 @@
 
 
   <br><br>
-*![](https://gautambairagi.netlify.app/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
-
+  
 
   <!--Visitor Count-->
 
