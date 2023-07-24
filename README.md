@@ -30,9 +30,10 @@
 
  - 👷 <samp>Currently pursuing MCA from SCSIT~DAVV University Indore.
   - 🤔 <samp>Exploring new technologies
-  - ♟currently working on **Reactjs**
-  - 🌱 <samp>Open to all **Open Source** Projects😋  
- - 💼 <samp>I’m looking for **Internship/Part-Time** Opportunities/roles.
+  - ♟currently working on **Angular**
+  - 🌱 <samp>Open to all **Open Source** Projects😋
+  - 💬 Web API Integration in angular
+ - 💼 <samp>I’m looking for **Job in Web development and Angular** Opportunities/roles.
  - 💬 <samp>Ask me about **Web developpment** 
  - 🤔 <samp>I’m looking for help with how to Design Website
 - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated.
@@ -53,7 +54,7 @@
 <!-- Languages and Tools -->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-bairagi-702053233/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCeUtVhl3haP9LGR8w7fLOkw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gautam_prince_d/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-bairagi-702053233/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)..] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gautam_prince_d/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
