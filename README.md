@@ -8,7 +8,7 @@
   
   
   
-  <h3 align="center"><samp> 👨🏻‍💻 A Web Developer 👨🏻‍💻,☁</samp></h4></p>
+  <h3 align="center"><samp> 👨🏻‍💻 Angular Developer 👨🏻‍💻,☁</samp></h4></p>
    
 
 <!-- <hr> -->
@@ -29,14 +29,17 @@
   <br>
 
  - 👷 <samp>Currently pursuing MCA from SCSIT~DAVV University Indore.
-  - 🤔 <samp>Exploring new technologies
-  - ♟currently working on **Angular**
-  - 🌱 <samp>Open to all **Open Source** Projects😋
-  - 💬 Web API Integration in angular
+ - 🤔 <samp>Exploring new technologies
+ - ♟currently working on **Angular**
+ - 💬 **Angular Material**
+ - 💬 **RXJS**
+ - 💬 **FireBase , FireStore , Cloud Function**
+ - 🌱 <samp>Open to all **Open Source** Projects😋
+ - 💬 Web API Integration in angular
  - 💼 <samp>I’m looking for **Job in Web development and Angular** Opportunities/roles.
  - 💬 <samp>Ask me about **Web developpment** 
  - 🤔 <samp>I’m looking for help with how to Design Website
-- ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated.
+ - ♟ <samp>I spend a lot of time with my friends who always make me happy and motivated.
 </div>
 
 <hr>
